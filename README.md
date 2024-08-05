@@ -51,7 +51,9 @@ date,hostname,ip_address
 
 ### License
 #### This project is licensed under the MIT License. See the LICENSE file for details.
-Author
+
+### Author
+Edward Igarashi
 
 ### Notes
 
